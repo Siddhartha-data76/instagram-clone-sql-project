@@ -36,6 +36,6 @@ Designed and analyzed an Instagram Clone relational database using MySQL.
 - SQL Workbench
 - GitHub
 
-## 👤 Author
+## Author
 
 Siddhartha Gupta
